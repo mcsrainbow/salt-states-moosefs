@@ -1,0 +1,2 @@
+include:
+  - moosefs.states.chunkserver
